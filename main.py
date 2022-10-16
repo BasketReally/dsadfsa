@@ -1,4 +1,4 @@
 import os
 
-os.system("whoami")
+os.system("uname -r")
 os.system("ls")
